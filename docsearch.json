@@ -1,7 +1,7 @@
 {
   "index_name": "cactus-docs",
   "start_urls": [
-    "https://cactus-test-search.paulapplegate.com"
+    "https://monster.paulapplegate.com"
   ],
   "stop_urls": [],
   "selectors": {

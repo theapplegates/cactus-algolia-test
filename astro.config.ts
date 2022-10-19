@@ -11,7 +11,7 @@ export default defineConfig({
 			wrap: true,
 		},
 	},
-	site: "https://cactus.paulapplegate.com",
+	site: "https://monster.paulapplegate.com",
 	integrations: [
 		mdx({}),
 		tailwind({
