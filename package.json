@@ -7,7 +7,6 @@
 		"start": "astro dev",
 		"build": "astro build",
 		"preview": "astro preview",
-		"algolia": "atomic-algolia",
 		"format": "prettier -w ./src ./src/**/*.astro"
 	},
 	"devDependencies": {
@@ -44,12 +43,9 @@
 		"typescript": "^4.8.4"
 	},
 	"dependencies": {
-		"@algolia/autocomplete-js": "^1.7.1",
 		"@algolia/autocomplete-theme-classic": "^1.7.1",
 		"@astrojs/renderer-preact": "^0.5.0",
 		"@astrojs/renderer-react": "^0.5.0",
-		"algoliasearch": "latest",
-		"atomic-algolia": "^0.3.19",
 		"esbuild-darwin-arm64": "^0.15.11",
 		"fsevents": "^2.3.2",
 		"sharp": "latest",
